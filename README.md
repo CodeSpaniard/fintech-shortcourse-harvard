@@ -19,16 +19,28 @@ The course uses the Harvard Business School case method, encouraging critical th
 
 ## 📁 Repository Structure
 
-- `overview/` – Course summary and structure  
-- `modules/` – Weekly breakdowns and notes  
-- `projects/` – Capstone project and applied exercises  
-- `resources/` – Readings, tools, and references  
+- `Honor code/` – Course Honor Code and policies  
+- `Orientation Module/` – Introduction to the course and presentation of the course structure  
+- `Module 1 _ Reshaping the banking and payments industry/` – Analysis of the online-payment revolution and related cases  
+- `Module 2 _ Raising money with FinTech/` – Analysis of peer-to-peer lending & disruption of traditional financing and related cases  
+- `Module 3 _ Harnessing data with artificial intelligence and machine learning/` – Analysis of information processing for financial services and related cases  
+- `Module 4 _ Demystifying blockchain/` – Analysis of blockchain & the democratization of finance and related cases  
+- `Module 5 _ Demystifying cryptocurrencies and CBDCs/` – Analysis of cryptocurrencies & CBDCs and related cases  
+- `Module 6 _ Forging the future of FinTech/` – Discussion of the future of FinTech and related cases  
+- `Capstone Project/` – My capstone project, recommending a business partnership based on a blockchain solution for supply management  
+- `Conference Week/` – Presentation of my capstone project and corresponding letter of participation  
+- **Miscellaneous files** – Found in the root directory including my letters of registration, enrollment, and completion, and my certificate  
 - `README.md` – This file
 
 ## 🧠 Skills & Tools
 
-FinTech strategy, blockchain fundamentals, digital payments, financial modeling, machine learning in finance, case-based analysis, innovation frameworks
+- FinTech strategy and innovation  
+- Blockchain fundamentals and applications  
+- Digital payments and peer-to-peer lending  
+- Machine learning and AI in financial services  
+- Cryptocurrencies and central bank digital currencies (CBDCs)  
+- Case-based analysis and business problem solving  
 
 ## 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/arielsama/)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arielsama/) or visit my [Gravatar profile](https://gravatar.com/inquisitivelyduckb602562deb)
